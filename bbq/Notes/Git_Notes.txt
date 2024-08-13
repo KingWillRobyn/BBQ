@@ -1,0 +1,23 @@
+Create a new Branch to work on:
+    //list all branches
+        "git branch"
+    //create new branch
+        "git branch NAME"
+    //checkout branch
+        "git checkout NAME"
+    //create and checkout
+        git checkout-bNAME
+    -------------------------------
+
+            WORKFLOW
+//Add all new items
+    "git add ."
+
+//Commit changes with a msg abt the changes
+    "git commit -m "MESSAGE"
+
+
+*If not on the master/main branch switch to master/main after commit*
+
+//Push all changes to the master branch
+    "git push"
